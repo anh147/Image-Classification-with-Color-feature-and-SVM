@@ -1,4 +1,4 @@
 # Image-Classification-with-Color-feature-and-SVM
 
-Data:
+Dataset:
 http://www.josiahwang.com/dataset/leedsbutterfly/
